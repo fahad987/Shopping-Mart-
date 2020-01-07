@@ -1,11 +1,11 @@
 # Shopping-Mart-
 Shopping Mart Desktop inventory system Just For Practice
 Complete Super Mart Desktop Inventor Content Managment System
-
 Login Form
 ![LoginForm](https://user-images.githubusercontent.com/9762157/71869946-e304ed00-3135-11ea-9de7-314d33395118.png)
 
-SIgnUp Form
+SignUp Form
+
 ![SignUpForm](https://user-images.githubusercontent.com/9762157/71869950-e39d8380-3135-11ea-9a13-388d7ad61968.png)
 Form1 Data
 ![Form1](https://user-images.githubusercontent.com/9762157/71869944-e26c5680-3135-11ea-929d-aa8eadb8f71e.png)
