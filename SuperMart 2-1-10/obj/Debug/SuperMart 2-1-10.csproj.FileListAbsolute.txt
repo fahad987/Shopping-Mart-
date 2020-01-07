@@ -1,0 +1,15 @@
+C:\Users\General-2\Desktop\Fahad\My Projects1\SuperMart 2-1-10\SuperMart 2-1-10\bin\Debug\SuperMart 2-1-10.exe.config
+C:\Users\General-2\Desktop\Fahad\My Projects1\SuperMart 2-1-10\SuperMart 2-1-10\bin\Debug\SuperMart 2-1-10.exe
+C:\Users\General-2\Desktop\Fahad\My Projects1\SuperMart 2-1-10\SuperMart 2-1-10\bin\Debug\SuperMart 2-1-10.pdb
+C:\Users\General-2\Desktop\Fahad\My Projects1\SuperMart 2-1-10\SuperMart 2-1-10\obj\Debug\SuperMart 2-1-10.csprojResolveAssemblyReference.cache
+C:\Users\General-2\Desktop\Fahad\My Projects1\SuperMart 2-1-10\SuperMart 2-1-10\obj\Debug\SuperMart_2_1_10.Form1.resources
+C:\Users\General-2\Desktop\Fahad\My Projects1\SuperMart 2-1-10\SuperMart 2-1-10\obj\Debug\SuperMart_2_1_10.Properties.Resources.resources
+C:\Users\General-2\Desktop\Fahad\My Projects1\SuperMart 2-1-10\SuperMart 2-1-10\obj\Debug\SuperMart 2-1-10.csproj.GenerateResource.Cache
+C:\Users\General-2\Desktop\Fahad\My Projects1\SuperMart 2-1-10\SuperMart 2-1-10\obj\Debug\SuperMart 2-1-10.exe
+C:\Users\General-2\Desktop\Fahad\My Projects1\SuperMart 2-1-10\SuperMart 2-1-10\obj\Debug\SuperMart 2-1-10.pdb
+C:\Users\General-2\Desktop\Fahad\My Projects1\SuperMart 2-1-10\SuperMart 2-1-10\obj\Debug\SuperMart_2_1_10.Login.resources
+C:\Users\General-2\Desktop\Fahad\My Projects1\SuperMart 2-1-10\SuperMart 2-1-10\obj\Debug\SuperMart_2_1_10.signup.resources
+C:\Users\General-2\Desktop\Fahad\My Projects1\SuperMart 2-1-10\SuperMart 2-1-10\obj\Debug\SuperMart_2_1_10.AddItemForm.resources
+C:\Users\General-2\Desktop\Fahad\My Projects1\SuperMart 2-1-10\SuperMart 2-1-10\obj\Debug\SuperMart_2_1_10.EditItemForm.resources
+C:\Users\General-2\Desktop\Fahad\My Projects1\SuperMart 2-1-10\SuperMart 2-1-10\obj\Debug\SuperMart_2_1_10.ViewDataForm.resources
+C:\Users\General-2\Desktop\Fahad\My Projects1\SuperMart 2-1-10\SuperMart 2-1-10\obj\Debug\SuperMart_2_1_10.DetailsAndSearch.resources
